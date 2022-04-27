@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    margin:4rem;
+}
+
 .calculadora {
     display: flex;
     flex-direction: column;
